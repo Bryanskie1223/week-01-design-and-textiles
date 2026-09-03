@@ -35,7 +35,7 @@ Fill in `reflection-template.md` all four sections.
 3. Commit all files
 4. Submit your GitHub repo URL on Canvas
 
-**Need help with GitHub?** See the [GitHub & GitHub Classroom Guide](https://github.com/UCR-Library-Honors-Ignition-Seminar/course-info/blob/main/GITHUB-GUIDE.md)
+**Need help with GitHub?** See the [GitHub & Classroom 50 Guide](https://github.com/UCR-Library-Honors-Ignition-Seminar/course-info/blob/main/GITHUB-GUIDE.md)
 
 ---
 

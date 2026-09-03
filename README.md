@@ -6,11 +6,11 @@
 
 ## Welcome to the Course!
 
-This is Week 1. Before diving into making, we'll get set up on GitHub Classroom — your digital portfolio for the whole course — and tour the Creat'R Lab.
+This is Week 1. Before diving into making, we'll get set up on Classroom 50 — your digital portfolio for the whole course — and tour the Creat'R Lab.
 
 ## Learning Objectives
 
-- Set up your GitHub account and accept your first GitHub Classroom assignment
+- Set up your GitHub account and accept your first Classroom 50 assignment
 - Navigate the Creat'R Lab safely and locate key equipment
 - Create and modify SVG files in Inkscape for laser cutting and Cricut output
 - Perform basic hand-sewing techniques (ladder stitch, running stitch, backstitch)
@@ -20,9 +20,9 @@ This is Week 1. Before diving into making, we'll get set up on GitHub Classroom 
 ## Session 1 (Day 1): Course Introduction + GitHub Setup + Creat'R Lab Tour
 
 ### Part A: Course Overview (~20 min)
-Introduction to the 10-week arc. How assignments work: GitHub Classroom + Canvas. What your final portfolio will look like.
+Introduction to the 10-week arc. How assignments work: Classroom 50 + Canvas. What your final portfolio will look like.
 
-### Part B: GitHub Classroom Setup (~30 min)
+### Part B: Classroom 50 Setup (~30 min)
 
 **Do this during class — your instructor will walk you through it:**
 
