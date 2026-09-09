@@ -75,7 +75,7 @@ A **vector file** (SVG) is made of mathematical paths — it scales to any size 
 | **Backstitch** | Strong permanent seams |
 | **Button sewing** | Reattaching buttons |
 
-**Activity:** Construct a rice-filled hand warmer using patterned cloth.
+**Activity:** Construct a cable keeper using provided patterned cloth.
 
 ---
 
