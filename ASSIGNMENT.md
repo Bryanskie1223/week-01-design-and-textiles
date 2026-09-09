@@ -14,7 +14,7 @@ Complete **both** of the following:
 - Document with **at least one photo** of the finished piece
 
 ### Part B: Hand Warmer
-- Construct a rice-filled hand warmer using patterned cloth
+- Construct a cable keeper using provided patterned cloth
 - Use at least one hand-sewing stitch practiced in class
 - Document with **at least one photo**
 
